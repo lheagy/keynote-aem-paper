@@ -1,5 +1,7 @@
 # 3D electromagnetic modelling and inversion: A case for open-source
 
+_Douglas W. Oldenburg, Lindsey J. Heagy, Seogi Kang and Rowan Cockett_
+
 Submitted to Exploration Geophysics for the special edition to the Proceedings of the 2018 Conference on Airborne Electromagnetics held in Denmark.
 
 ## Abstract
